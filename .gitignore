@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+Untitled*.ipynb
+
+# Temporary files
+~$*
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+*.weights
+
+# Large datasets
+dataset/
+datasets/
+KITTI/
+kitti/
+
+# Logs
+logs/
+wandb/
